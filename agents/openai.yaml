@@ -1,0 +1,4 @@
+interface:
+  display_name: "3D 爆炸图与交互地图"
+  short_description: "生成可旋转、拆解、点选的汽车与飞机三维展示，以及有来源的建筑地图"
+  default_prompt: "用 $interactive-3d-atlas 制作一个可旋转、拆解、点选部件的三维交互网页，沿用已有项目的视觉风格。"
